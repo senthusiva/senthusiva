@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **senthusiva/senthusiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Senthu's GitHub stats](https://github-readme-stats.vercel.app/api?username=senthusiva&theme=radical&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senthusiva&theme=radical&show_icons=true)](https://github.com/senthusiva/github-readme-stats)
-
+![Senthu's GitHub stats](https://github-readme-stats.vercel.app/api?username=senthusiva&theme=radical&show_icons=true)
 -->
 
 
+<div align="center">
+  <h2>Hello there, I'm Senthu! 👋</h2>
+
+  <h4> About Me :walking:</h4>
+  I am a computer science student with a passionate interest in Databases, Cloud Technologies and Data Engineering. I’m currently working as a software developer and tester in the finance industry.
+
+  <h4>My GitHub Stats :chart_with_upwards_trend:</h4>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senthusiva&theme=radical&show_icons=true)](https://github.com/senthusiva/github-readme-stats" alt="Senthu's GitHub Language Stats"><br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=senthusiva&theme=radical&show_icons=true" alt="Senthu's GitHub Stats">
+</div>
