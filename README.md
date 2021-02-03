@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  <h2>Hello there, I'm Senthu! 👋</h2>
+  <h1>Hello there, I'm Senthu! 👋</h1>
 
-  <h4> About Me :walking:</h4>
+  <h2> About Me :walking:</h2>
   <p>I am a computer science student with a passionate interest in databases, cloud technologies and data engineering. I’m currently working as a software developer and tester in the finance industry.</p>
 
-  <h4>My GitHub Stats :chart_with_upwards_trend:</h4>
+  <h2>My GitHub Stats :chart_with_upwards_trend:</h2>
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senthusiva&theme=radical&show_icons=true)](https://github.com/senthusiva/github-readme-stats" alt="Senthu's GitHub Language Stats"><br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=senthusiva&theme=radical&show_icons=true" alt="Senthu's GitHub Stats">
