@@ -16,15 +16,11 @@ Here are some ideas to get you started:
 ![Senthu's GitHub stats](https://github-readme-stats.vercel.app/api?username=senthusiva&theme=radical&show_icons=true)
 -->
 
-p {
-   width: 100px;
-}
-
 <div align="center">
   <h2>Hello there, I'm Senthu! 👋</h2>
 
   <h4> About Me :walking:</h4>
-  I am a computer science student with a passionate interest in databases, cloud technologies and data engineering. I’m currently working as a software developer and tester in the finance industry.
+  <p style="width:50%">I am a computer science student with a passionate interest in databases, cloud technologies and data engineering. I’m currently working as a software developer and tester in the finance industry.</p>
 
   <h4>My GitHub Stats :chart_with_upwards_trend:</h4>
   
