@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senthusiva&theme=radical&show_icons=true)](https://github.com/senthusiva/github-readme-stats)
 ![Senthu's GitHub stats](https://github-readme-stats.vercel.app/api?username=senthusiva&theme=radical&show_icons=true)
+
+<img src="header.png" alt="Welcome!" width="100%"/>
 -->
 
 <div align="center">
+  
   <h2>Hello there, I'm Senthu! 👋</h2>
 
   <h4> About Me :walking:</h4>
