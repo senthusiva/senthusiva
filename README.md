@@ -23,7 +23,12 @@ Here are some ideas to get you started:
   <h1>Hello there, I'm Senthu! 👋</h1>
 
   <h2> About Me :walking:</h2>
-  <p>I am a computer science student with a passionate <br/> interest in databases, cloud technologies and data engineering. <br/> I’m currently working as a software developer and tester in the finance industry.</p>
+  <p>
+  I am a computer science student with a passionate <br/> 
+  interest in databases, cloud technologies and data engineering. <br/> 
+  I’m currently working as a software developer and tester in the finance industry.</p>
+
+[ senthu.xyz!](https://senthu.xyz/)
 
   <h2>My GitHub Stats :chart_with_upwards_trend:</h2>
   
