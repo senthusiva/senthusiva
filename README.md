@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   interest in databases, cloud technologies and data engineering. <br/> 
   I’m currently working as a software developer and tester in the finance industry.</p>
 
-[ senthu.xyz!](https://senthu.xyz/)
+[ senthu.xyz](https://senthu.xyz/)
 
   <h2>My GitHub Stats :chart_with_upwards_trend:</h2>
   
